@@ -26,6 +26,8 @@ public class Cal {
         return a/b;
     }
     
-    
+    int percent(int a,int b){
+        return a%b;
+    }
     
 }
